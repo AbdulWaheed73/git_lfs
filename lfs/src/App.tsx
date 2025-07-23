@@ -1,4 +1,4 @@
-import videoFile from './assets/vedio.mp4';
+import videoFile from '../public/vedio.mp4';
 
 function App() {
   return (
